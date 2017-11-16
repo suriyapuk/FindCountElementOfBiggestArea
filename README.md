@@ -7,7 +7,7 @@ An area is defined when several identical value are connected together (either h
 <br><br>
 For example with the following matrix:
 <br><br>
-0  0  0  2  2 <br>
+0&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;2&nbsp;&nbsp;2 <br>
 1  1  7  2  2 <br>
 2  2  7  2  1 <br>
 2  1  7  4  4 <br>
