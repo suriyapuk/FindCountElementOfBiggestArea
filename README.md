@@ -64,9 +64,9 @@ And so the function must return 9 (the area is composed of 9 elements)
 Code must be structured, easily comprehensible and efficient.
 
 # How to run:
-<br><br>
-Compile<br>
+<br>
+[Compile]<br>
 javac FindCountElementOfBiggestArea.java
 <br><br>
-Run<br>
+[Run]<br>
 java FindCountElementOfBiggestArea
