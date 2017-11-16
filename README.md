@@ -17,7 +17,7 @@ For example with the following matrix:
 4&nbsp;&nbsp;4&nbsp;&nbsp;6&nbsp;&nbsp;4&nbsp;&nbsp;4 <br>
 <br>
 we can find the following areas:<br>
-0&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;*&nbsp;&nbsp;* <br>
+0&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;+&nbsp;&nbsp;+ <br>
 *&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;* <br>
 *&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;* <br>
 *&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;*&nbsp;&nbsp;* <br>
