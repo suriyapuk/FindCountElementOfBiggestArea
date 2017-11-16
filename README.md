@@ -1,7 +1,7 @@
 # FindCountElementOfBiggestArea
 Ruby on Rails Job Opportunity Rockyou - Challenge
 <br><br>
-#Instructions:<br>
+# Instructions:
 Given a matrix composed of integer values<br>
 An area is defined when several identical value are connected together (either horizontally or vertically)
 <br><br>
@@ -59,5 +59,5 @@ For example with the above matrix, the biggest area is:<br>
 <br>
 And so the function must return 9 (the area is composed of 9 elements)
 <br><br>
-#Requirements:<br>
+# Requirements:
 Code must be structured, easily comprehensible and efficient.
